@@ -1,0 +1,26 @@
+{
+  "name": "js-exercises",
+  "version": "1.0.0",
+  "description": "Atividades de JavaScript",
+  "main": "ativ.1.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fetch": "^1.1.0",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cardosovanessa/js-exercises.git"
+  },
+  "author": "Vanessa Cardoso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cardosovanessa/js-exercises/issues"
+  },
+  "homepage": "https://github.com/cardosovanessa/js-exercises#readme"
+}
